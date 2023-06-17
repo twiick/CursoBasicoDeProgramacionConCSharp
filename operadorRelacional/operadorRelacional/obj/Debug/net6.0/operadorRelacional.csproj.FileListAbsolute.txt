@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\bin\Debug\net6.0\operadorRelacional.exe
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\bin\Debug\net6.0\operadorRelacional.deps.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\bin\Debug\net6.0\operadorRelacional.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\bin\Debug\net6.0\operadorRelacional.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\bin\Debug\net6.0\operadorRelacional.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\refint\operadorRelacional.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\operadorRelacional.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadorRelacional\operadorRelacional\obj\Debug\net6.0\ref\operadorRelacional.dll
