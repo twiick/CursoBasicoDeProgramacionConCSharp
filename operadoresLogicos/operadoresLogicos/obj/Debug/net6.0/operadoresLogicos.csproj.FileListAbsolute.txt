@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.exe
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.deps.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\refint\operadoresLogicos.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\ref\operadoresLogicos.dll
