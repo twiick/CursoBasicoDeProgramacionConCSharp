@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\bin\Debug\net6.0\switchExample.exe
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\bin\Debug\net6.0\switchExample.deps.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\bin\Debug\net6.0\switchExample.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\bin\Debug\net6.0\switchExample.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\bin\Debug\net6.0\switchExample.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\refint\switchExample.dll
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.pdb
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\switchExample.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\twiick\CursoBasicoDeProgramacionConCSharp\switchExample\switchExample\obj\Debug\net6.0\ref\switchExample.dll
